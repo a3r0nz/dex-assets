@@ -2,9 +2,9 @@
   "name": "Maxi Network Testnet",
   "timestamp": "2024-02-23T13:09:43.604Z",
   "version": {
-  "major": 43,
-  "minor": 1,
-  "patch": 0
+    "major": 44,
+    "minor": 2,
+    "patch": 1
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/a3r0nz/dex-assets/main/maxi.svg",
