@@ -1,0 +1,42 @@
+{
+  "name": "Maxi Network Testnet",
+  "timestamp": "2024-02-23T13:09:43.604Z",
+  "version": {
+  "major": 43,
+  "minor": 1,
+  "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://maxi.network/_next/static/media/maxi-logo.5128f6e5.svg",
+  "keywords": [
+    "dex",
+    "maxi",
+    "default"
+  ],
+  tokens": [
+    {
+      "address": "0x371a0263a1265bE4ce4137977b09A8A5AA3f6438",
+      "chainId": 898,
+      "decimals": 18,
+      "logoURI": "https://maxi.network/_next/static/media/maxi-logo.5128f6e5.svg",
+      "name": "Wrapped MAXI",
+      "symbol": "WMAXI"
+    },
+    {
+      "address": "0x603d173a594E3E37DbB62957D45849918D2c1521",
+      "chainId": 898,
+      "decimals": 18,
+      "logoURI": "https://maxi.network/_next/static/media/maxi-logo.5128f6e5.svg",
+      "name": "Mock Token",
+      "symbol": "MTK"
+    },
+    {
+      "address": "0x1533dC89F1382F2b2aD255397dD4E337C2963C37",
+      "chainId": 898,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+      "name": "USDT",
+      "symbol": "USDT"
+    },
+  ]
+}
