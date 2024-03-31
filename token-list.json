@@ -18,7 +18,7 @@
       "address": "0x371a0263a1265bE4ce4137977b09A8A5AA3f6438",
       "chainId": 898,
       "decimals": 18,
-      "logoURI": "https://maxi.network/_next/static/media/maxi-logo.5128f6e5.svg",
+      "logoURI": "https://raw.githubusercontent.com/a3r0nz/dex-assets/main/maxi.svg",
       "name": "Wrapped MAXI",
       "symbol": "WMAXI"
     },
@@ -26,7 +26,7 @@
       "address": "0x603d173a594E3E37DbB62957D45849918D2c1521",
       "chainId": 898,
       "decimals": 18,
-      "logoURI": "https://maxi.network/_next/static/media/maxi-logo.5128f6e5.svg",
+      "logoURI": "https://raw.githubusercontent.com/a3r0nz/dex-assets/main/mtk.svg",
       "name": "Mock Token",
       "symbol": "MTK"
     },
