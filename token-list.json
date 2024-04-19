@@ -15,7 +15,7 @@
   ],
   "tokens": [
     {
-      "address": "0x371a0263a1265bE4ce4137977b09A8A5AA3f6438",
+      "address": "0xacB8719c8dbd3b43eCa7588eB224f174e4b8993B",
       "chainId": 898,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/a3r0nz/dex-assets/main/maxi.svg",
@@ -23,20 +23,36 @@
       "symbol": "WMAXI"
     },
     {
-      "address": "0x603d173a594E3E37DbB62957D45849918D2c1521",
+      "address": "0x4AF7465EB573e268b3DcF3769b0E53507D5C62AC",
+      "chainId": 898,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+      "name": "USDC",
+      "symbol": "USDC"
+    },
+    {
+      "address": "0x5C23df49A8cad0ff2A305Fef0EC22b3B9eE7c608",
+      "chainId": 898,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+      "name": "USDT",
+      "symbol": "USDT"
+    },
+    {
+      "address": "0x03Ec6A032b276E20efAc2BBFCA99D7AA37B54A76",
       "chainId": 898,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/a3r0nz/dex-assets/main/mtk.svg",
       "name": "Mock Token",
       "symbol": "MTK"
     },
-    {
-      "address": "0x1533dC89F1382F2b2aD255397dD4E337C2963C37",
+     {
+      "address": "0x86cd980372794604956c164D0cb2F0b55E7Da0A9",
       "chainId": 898,
       "decimals": 18,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
-      "name": "USDT",
-      "symbol": "USDT"
+      "logoURI": "https://raw.githubusercontent.com/a3r0nz/dex-assets/main/htk.svg",
+      "name": "Holy Token",
+      "symbol": "HTK"
     }
   ]
 }
