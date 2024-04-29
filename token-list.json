@@ -4,7 +4,7 @@
   "version": {
     "major": 44,
     "minor": 4,
-    "patch": 1
+    "patch": 2
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/a3r0nz/dex-assets/main/maxi.svg",
@@ -15,7 +15,7 @@
   ],
   "tokens": [
     {
-      "address": "0x371a0263a1265bE4ce4137977b09A8A5AA3f6438",
+      "address": "0x2fE4FDD491DFB76BF5509f1595f7b739Ad18a179",
       "chainId": 898,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/a3r0nz/dex-assets/main/maxi.svg",
@@ -31,7 +31,7 @@
       "symbol": "USDC"
     },
     {
-      "address": "0x1533dC89F1382F2b2aD255397dD4E337C2963C37",
+      "address": "0x3C37671c9F6A445B566300C5493C9E80fDe9294c",
       "chainId": 898,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
@@ -39,7 +39,7 @@
       "symbol": "USDT"
     },
     {
-      "address": "0x3C8A63f5F8134A1af0bDe37834E2dAcd50af1AFb",
+      "address": "0xDFc7b98887f299b624a9313822f5A089CeE4784d",
       "chainId": 898,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/a3r0nz/dex-assets/main/mtk.svg",
@@ -47,7 +47,7 @@
       "symbol": "MTK"
     },
      {
-      "address": "0x3C37671c9F6A445B566300C5493C9E80fDe9294c",
+      "address": "0xa9dc8cA86d1f09b60D7ee0576c01C1E60Af920d5",
       "chainId": 898,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/a3r0nz/dex-assets/main/htk.svg",
