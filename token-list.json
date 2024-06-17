@@ -3,8 +3,8 @@
   "timestamp": "2024-02-23T13:09:43.604Z",
   "version": {
     "major": 44,
-    "minor": 5,
-    "patch": 3
+    "minor": 6,
+    "patch": 4
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/a3r0nz/dex-assets/main/maxi.svg",
@@ -14,7 +14,14 @@
     "default"
   ],
   "tokens": [
-    
+    {
+      "address": "0xFaE4ED40FFfF96E38e81Bb9fd22AA66dAc3a7493",
+      "chainId": 899,
+      "decimals": 18,
+      "logoURI": "https://ion.maxion.gg/images/token/ion.svg",
+      "name": "ION",
+      "symbol": "ION"
+    },
     {
       "address": "0xDe488B40A75EF22C9f902cFA855bDB05e80e5180",
       "chainId": 898,
