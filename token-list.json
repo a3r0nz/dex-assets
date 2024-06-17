@@ -14,14 +14,7 @@
     "default"
   ],
   "tokens": [
-    {
-      "address": "0x2fE4FDD491DFB76BF5509f1595f7b739Ad18a179",
-      "chainId": 898,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/a3r0nz/dex-assets/main/maxi.svg",
-      "name": "Wrapped MAXI",
-      "symbol": "WMAXI"
-    },
+    
     {
       "address": "0xDe488B40A75EF22C9f902cFA855bDB05e80e5180",
       "chainId": 898,
